@@ -14,8 +14,6 @@ cd ansible-master-slaves
 
 docker-compose up -d
 
-Docker Install steps: https://docs.docker.com/install/
-
 This will create one Master and 4 slaves containers.All 5 containers should be up and running.
 
 docker ps 
