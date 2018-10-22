@@ -4,7 +4,7 @@ Ansible master-slaves(4) Lab on Ununtu with SSH keys setup and initial hosts fil
 
 **Pre-requisites**
 
-Docker Install steps: https://docs.docker.com/install/
+Docker (Install steps): https://docs.docker.com/install/
 
 **Setup Instructions**
 
